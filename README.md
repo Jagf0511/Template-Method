@@ -42,9 +42,7 @@ Explicamos su utilidad, implementación y beneficios dentro de la arquitectura d
 ## 🎯 ¿Qué encontrarás en nuestra exposición?
 ✅ Explicación teórica del patrón Template Method.  
 ✅ Diagrama UML para entender mejor su estructura.  
-✅ Implementación en código con ejemplos prácticos en **C#**.  
-✅ Comparaciones con otros patrones de diseño.  
-✅ Aplicaciones en la arquitectura de software moderna.  
+✅ Implementación en código con ejemplos prácticos en **C#**.
 
 ---
 
